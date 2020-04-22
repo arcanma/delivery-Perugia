@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="1713467684" lat="44.3690009" lon="7.5177422">
+		<tag k="addr:housenumber" v="100"/>
+		<tag k="addr:street" v="Corso Alcide De Gasperi"/>
+		<tag k="contact:email" v="info@albacattigarden.it"/>
+		<tag k="contact:phone" v="+39 0171 493123"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Garden Alba-Catti"/>
+		<tag k="shop" v="garden_centre"/>
+	</node>
+	<node id="3481137901" lat="44.4178934" lon="7.4335779">
+		<tag k="addr:city" v="Caraglio"/>
+		<tag k="addr:housenumber" v="47"/>
+		<tag k="addr:postcode" v="12023"/>
+		<tag k="addr:street" v="Via Cesare Battisti"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Fiori di Pesco"/>
+		<tag k="operator" v="Cinzia Ghibaudo"/>
+		<tag k="phone" v="+39 0171 610300"/>
+		<tag k="phone:mobile" v="+39 339 7227895"/>
+		<tag k="shop" v="florist"/>
+	</node>
+	<node id="6061695210" lat="44.3882111" lon="7.5492017">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
+		<tag k="contact:email" v="cuneo@fiorito.net"/>
+		<tag k="contact:phone" v="+39 0171 66650"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegniamo fiori e piante a domicilio a Cuneo e dintorni."/>
+		<tag k="name" v="Fiorito Cuneo"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:credit_cards" v="yes"/>
+		<tag k="payment:paypal" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
+		<tag k="shop" v="florist"/>
+		<tag k="website" v="https://www.fioritoshop.it"/>
+	</node>
+	<node id="6188019826" lat="44.3884003" lon="7.5460188">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:street" v="Via Vittorio Amedeo Secondo"/>
+		<tag k="contact:email" v="acciderba2.0@gmail.com"/>
+		<tag k="contact:mobile" v="+39 348 5337935"/>
+		<tag k="contact:phone" v="+39 0171 692720"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Acciderba"/>
+		<tag k="shop" v="florist"/>
+	</node>
+	<node id="6760296292" lat="44.4155173" lon="7.4292087">
+		<tag k="addr:city" v="Caraglio"/>
+		<tag k="addr:housenumber" v="36"/>
+		<tag k="addr:postcode" v="12023"/>
+		<tag k="addr:street" v="Via Bernezzo"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Tuttanatura Fiori e Piante"/>
+		<tag k="opening_hours" v="Mo-Sa 08:30-12:30, 15:30-20:00"/>
+		<tag k="phone:mobile" v="+39 348 5919192"/>
+		<tag k="shop" v="garden_centre"/>
+	</node>
+	<node id="6832293603" lat="44.4131859" lon="7.5505367">
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Clorofilla"/>
+		<tag k="phone" v="+39 349 1360179"/>
+		<tag k="shop" v="florist"/>
+	</node>
+	<node id="7296234972" lat="44.4171342" lon="7.4266143">
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="adjust position"/>
+		<tag k="name" v="Debora Fiori"/>
+		<tag k="phone:mobile" v="+39 346 5127411"/>
+		<tag k="shop" v="florist"/>
+	</node>
+	<node id="7312771213" lat="44.6470574" lon="7.6489761">
+		<tag k="contact:mobile" v="+39 335 6752177"/>
+		<tag k="contact:phone" v="+39 0172 715015"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Tuttanatura Di Borio Claudio"/>
+		<tag k="shop" v="garden_centre"/>
+	</node>
+	<node id="7375029745" lat="44.6485305" lon="7.6283741">
+		<tag k="contact:facebook" v="https://www.facebook.com/FLORICOLTURAMONVISO/"/>
+		<tag k="contact:mobile" v="+39 349 3940354;+39 347 8886314"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Floricoltura Monviso"/>
+		<tag k="shop" v="garden_centre"/>
+	</node>
+	<node id="7375440500" lat="44.6404954" lon="7.6602602">
+		<tag k="contact:facebook" v="https://www.facebook.com/la.baiottina.1"/>
+		<tag k="contact:mobile" v="+39 335 7108279"/>
+		<tag k="contact:phone" v="+39 0172 713361"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="shop" v="garden_centre"/>
+	</node>
+</osm>

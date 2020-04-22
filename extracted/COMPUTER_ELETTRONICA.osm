@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="1970779039" lat="44.3808732" lon="7.5392157">
+		<tag k="addr:housenumber" v="61a"/>
+		<tag k="addr:street" v="Corso Nizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="cuneo@prink.it"/>
+		<tag k="name" v="Prink"/>
+		<tag k="operator" v="Aleki SNC di Sala Alessio Gianelio &#38; C."/>
+		<tag k="phone" v="+39 349 6410294"/>
+		<tag k="shop" v="printer_ink"/>
+	</node>
+	<node id="6417432077" lat="44.3871817" lon="7.5409464">
+		<tag k="addr:housenumber" v="25"/>
+		<tag k="addr:street" v="Via Antonio Bassignano"/>
+		<tag k="contact:mobile" v="+39 339 3590191"/>
+		<tag k="contact:phone" v="+39 0171 681977"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description" v="Ricambi elettrodomestici e attrezzature per la riparazione delle celle frigorifere"/>
+		<tag k="name" v="Scaletta"/>
+		<tag k="operator" v="Scaletta Ricambi S.N.C."/>
+		<tag k="shop" v="electronics"/>
+	</node>
+	<node id="6433717643" lat="44.3877362" lon="7.5380134">
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Eco store"/>
+		<tag k="phone" v="+39 392 4050480"/>
+		<tag k="shop" v="printer_ink"/>
+	</node>
+	<node id="7025530252" lat="44.4183491" lon="7.4310147">
+		<tag k="addr:housenumber" v="171"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/dalmassoelettrodomestici.it/"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="dalmasso_caraglio@yahoo.it"/>
+		<tag k="name" v="Dalmasso Elettrodomestici"/>
+		<tag k="opening_hours" v="Tu-Sa 08:00-12:30,15:30-19:30; Su 09:00-12:30"/>
+		<tag k="phone" v="+39 0171 618461"/>
+		<tag k="phone:mobile" v="+39 380 4535104"/>
+		<tag k="shop" v="electronics"/>
+	</node>
+	<node id="7289155704" lat="44.3841393" lon="7.5406647">
+		<tag k="addr:housenumber" v="47a"/>
+		<tag k="addr:street" v="Via Venti Settembre"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Rigenera Cuneo di Marchetti Marco"/>
+		<tag k="phone" v="+39 338 5977575"/>
+		<tag k="shop" v="printer_ink"/>
+	</node>
+	<node id="7295079935" lat="44.4170499" lon="7.4319042">
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Control C"/>
+		<tag k="phone:mobile" v="+39 328 4882278"/>
+		<tag k="shop" v="printer_ink"/>
+	</node>
+	<node id="7296220326" lat="44.4171958" lon="7.4273174">
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="adjust position"/>
+		<tag k="name" v="Lucky"/>
+		<tag k="phone" v="+39 348 7118682"/>
+		<tag k="shop" v="electronics"/>
+	</node>
+	<node id="7315542856" lat="44.6482624" lon="7.6578878">
+		<tag k="contact:mobile" v="+39 340 1981138"/>
+		<tag k="contact:phone" v="+39 0172 371525"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Prink"/>
+		<tag k="shop" v="printer_ink"/>
+		<tag k="website" v="https://www.prink.it/savigliano-1052"/>
+	</node>
+	<node id="7323724927" lat="44.5146659" lon="7.4752449">
+		<tag k="addr:city" v="Busca"/>
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="12022"/>
+		<tag k="addr:street" v="Via Martiri della Libertà"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Aimar Elettrodomestici"/>
+		<tag k="phone" v="+39 0171 945201"/>
+		<tag k="phone:mobile" v="+39 335 6817081"/>
+		<tag k="shop" v="electronics"/>
+	</node>
+	<node id="7415127960" lat="44.3669057" lon="7.5242843">
+		<tag k="addr:housenumber" v="96"/>
+		<tag k="addr:street" v="Corso Francia"/>
+		<tag k="contact:email" v="maxi.incasso@cuneo.it"/>
+		<tag k="contact:mobile" v="+39 348 8109107"/>
+		<tag k="contact:phone" v="+39 0171 493467"/>
+		<tag k="contact:website" v="https://www.maxielettrodomestici.com/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Maxi"/>
+		<tag k="shop" v="appliance"/>
+	</node>
+</osm>
